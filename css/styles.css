@@ -21,11 +21,6 @@ img {
   border-radius : 100%;
 }
 
-h3:hover {
-  color:#444444;
-  font-size:30px;
-}
-
 a:hover {
   font-size:25px;
 }
